@@ -3,10 +3,11 @@
 	"author":"Donato",
 	"description": "A project that does something",
 	"keywords": [ "freecodecamp", "server side", "upskill" ],
-	"version": "1.1.0",
+	"version": "~1.1.0",
 	"license":"Revature",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment":"2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
